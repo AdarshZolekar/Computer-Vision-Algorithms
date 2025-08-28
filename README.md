@@ -13,7 +13,7 @@ Several projects are devoted to [**_Deep Learning Arcitecture_**](https://en.wik
 
   
 ### Projects 
-  Your can view and launch the following Python projects:
+  Your can view and launch the following Python projects :
   
 [Fast detector of facial keypoints (ORB)](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Agorithm-ORB)
 
